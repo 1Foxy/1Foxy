@@ -15,7 +15,7 @@
 
 ## Discord  
 <div align="center">
-<a href="https://discordapp.com/users/960462172197117962" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/960462172197117962.png"/></a>
+<a href="https://discordapp.com/users/763859458157445160" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/763859458157445160.png"/></a>
 </div>
 
 ## Github Stats  
